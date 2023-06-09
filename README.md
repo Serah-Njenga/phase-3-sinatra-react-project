@@ -4,7 +4,9 @@
 
 - Build a web basic API with Sinatra and Active Record to support a React
   frontend
-REACT LINK https://github.com/Serah-Njenga/Task-Tackler
+  
+  
+REACT frontend LINK https://github.com/Serah-Njenga/Task-Tackler
 ## Introduction
 
 Congrats on getting through all the material for Phase 3! Now's the time to put
